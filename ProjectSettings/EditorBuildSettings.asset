@@ -6,6 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: e312b9a783511ab4892c1c2f3a22a63c
+  - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: f21277ea013036848af513ad0a1ab8b3
+  - enabled: 1
+    path: Assets/Scenes/Versus.unity
+    guid: 7dc686341f1500d4095b04f710558f88
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
